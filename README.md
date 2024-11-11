@@ -11,11 +11,14 @@ This Android application, a Mobile Math Quiz Game, challenges users with five ti
 - **🏁 End of Quiz Summary**: Displays the user's final score and inserts it into the database. Various queries are available to fetch top scores, count total players, and more.
 - **🔄 Play Again Option**: Allows users to restart the quiz or exit.
 
+https://github.com/user-attachments/assets/85004b0b-4fbd-4887-b746-d87e9c7c2176
+
 ### Technical Specifications
 
 - **SQLite Database**: Utilizes SQLite for storing user data and scores.
 - **Random Question Selection**: Ensures that the same question is not repeated within a single game session.
 - **Timed Responses**: Each question is timed with a countdown, encouraging quick thinking.
+
 - **Feedback Mechanisms**: Toast messages provide instant feedback on user responses.
 
 ### Programming Languages and Tools:
