@@ -40,7 +40,6 @@ https://github.com/user-attachments/assets/85004b0b-4fbd-4887-b746-d87e9c7c2176
 - **DatabaseHelper.java**: Manages all interactions with the SQLite database, including CRUD operations and custom queries.
 
 ### Database Schema
-
 - **Table 1: Scores**
   - `id`: Auto-incremented identifier.
   - `nickname`: Unique username.
